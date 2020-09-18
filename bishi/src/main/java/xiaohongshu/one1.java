@@ -25,7 +25,7 @@ public class one1 {
     int MAX_SIZE = 20;
     char[] tempArray =new char[MAX_SIZE];
     int lastParagraphEnd=0,lastSentenceEnd=0 , pos=0,lastTextPos=0;
-    ArrayList<String> ret =new ArrayList<>();//分组结果
+    ArrayList<String> ret =new ArrayList<String>();//分组结果
     char[] textChars = text.toCharArray() ;
     char[] splited ;
     for (int textpos=0;textpos<textChars.length;) {

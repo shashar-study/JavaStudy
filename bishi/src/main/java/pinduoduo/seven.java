@@ -40,7 +40,7 @@ public class seven {
     int n=sc.nextInt();
     int m=sc.nextInt();
     int k=sc.nextInt();
-    List<Integer> result=new ArrayList<>();
+    List<Integer> result=new ArrayList<Integer>();
     for (int i = 1; i <=n ; i++) {
       for (int j = 1; j <=m ; j++) {
         result.add(i*j);

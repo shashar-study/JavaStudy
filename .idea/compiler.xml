@@ -7,12 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Algorithm" />
+        <module name="mianshi" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Algorithm" target="1.5" />
       <module name="algorithm" target="1.5" />
       <module name="bishi" target="1.5" />
+      <module name="mianshi" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
