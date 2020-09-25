@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Algorithm" />
         <module name="mianshi" />
+        <module name="test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -15,6 +16,7 @@
       <module name="algorithm" target="1.5" />
       <module name="bishi" target="1.5" />
       <module name="mianshi" target="1.5" />
+      <module name="test" target="6" />
     </bytecodeTargetLevel>
   </component>
 </project>
