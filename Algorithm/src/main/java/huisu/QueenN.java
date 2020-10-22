@@ -2,7 +2,7 @@ package huisu;
 public class QueenN {
 
   // 皇后/棋盘的个数
-  private static final int QUEEN_NUM = 4;
+  private static final int QUEEN_NUM = 1;
 
   // 首先定义一个8 * 8 的棋盘
   private static final int[][] Checkerboard = new int[QUEEN_NUM][QUEEN_NUM];

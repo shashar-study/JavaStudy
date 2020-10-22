@@ -11,12 +11,11 @@
         <module name="test" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Algorithm" target="1.5" />
-      <module name="algorithm" target="1.5" />
-      <module name="bishi" target="1.5" />
-      <module name="mianshi" target="1.5" />
-      <module name="test" target="6" />
+    <bytecodeTargetLevel target="8">
+      <module name="Algorithm" target="8" />
+      <module name="bishi" target="8" />
+      <module name="mianshi" target="8" />
+      <module name="test" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
